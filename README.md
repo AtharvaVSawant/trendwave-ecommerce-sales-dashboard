@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing sales, profit, and customer behavior for **TrendWave**, an e-commerce business. The dashboard provides a 360° view of revenue performance across regions, payment modes, product categories, and time periods.
 
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview]([images/dashboard-overview.png](https://github.com/AtharvaVSawant/trendwave-ecommerce-sales-dashboard/blob/35090a5848251b774d65434e703638c211ff5d94/Trendwave%20Ecommerce%20Sales%20Dashboard.png))
 
 ## 🔑 Key Metrics
 
