@@ -62,4 +62,4 @@ This project is open-sourced under the [MIT License](LICENSE).
 
 ## 🙋 Author
 
-Built by [Your Name] — feel free to connect or raise an issue for suggestions!
+Built by Atharva Sawant — feel free to connect or raise an issue for suggestions!
