@@ -42,7 +42,7 @@ trendwave-ecommerce-sales-dashboard/
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/<your-username>/trendwave-ecommerce-sales-dashboard.git
+   git clone https://github.com/AtharvaVSawant/trendwave-ecommerce-sales-dashboard.git
    ```
 2. Open the `.pbix` file inside the `dashboard/` folder using **Power BI Desktop**.
 3. If prompted, update the data source path to point to the files in the `data/` folder.
